@@ -1,0 +1,16 @@
+Campo,Dígito,Frecuencia Observada (%),Frecuencia Esperada (%),Desviación (%)
+
+=== LIKES ===
+Total de muestras: 5
+Chi-cuadrado: 3.8014
+Desviación promedio: 0.0884
+
+likes,1,40.00,30.10,9.90
+likes,2,40.00,17.61,22.39
+likes,3,20.00,12.49,7.51
+likes,4,0.00,9.69,9.69
+likes,5,0.00,7.92,7.92
+likes,6,0.00,6.69,6.69
+likes,7,0.00,5.80,5.80
+likes,8,0.00,5.12,5.12
+likes,9,0.00,4.58,4.58
