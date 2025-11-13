@@ -756,9 +756,9 @@ def save_results_to_csv(profile_name, profile_followers, followers_data, analysi
 def main():
     """Función principal"""
     # CONFIGURACIÓN
-    INSTAGRAM_USERNAME = "iamjohnyv13"
-    INSTAGRAM_PASSWORD = "Diana2809"  # ⚠️ Cambia esto
-    PROFILE_TO_ANALYZE = "mtc_castu"
+    INSTAGRAM_USERNAME = ""
+    INSTAGRAM_PASSWORD = ""  # ⚠️ Cambia esto
+    PROFILE_TO_ANALYZE = ""
     MAX_FOLLOWERS = 100  # Cuántos seguidores analizar (más = más tiempo)
     
     if INSTAGRAM_PASSWORD == "TU_CONTRASEÑA_AQUI":
