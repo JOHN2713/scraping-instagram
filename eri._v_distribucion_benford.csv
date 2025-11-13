@@ -1,0 +1,21 @@
+Análisis de Ley de Benford - Distribución del Primer Dígito
+
+Perfil analizado:,@eri._v
+Seguidores del perfil:,246
+Seguidores analizados:,84
+Números válidos analizados:,45
+
+Dígito,Cantidad,Frecuencia Observada (%),Frecuencia Esperada (%),Desviación (%)
+1,11,24.44,30.10,5.66
+2,11,24.44,17.61,6.84
+3,2,4.44,12.49,8.05
+4,6,13.33,9.69,3.64
+5,8,17.78,7.92,9.86
+6,3,6.67,6.69,0.03
+7,3,6.67,5.80,0.87
+8,1,2.22,5.12,2.89
+9,0,0.00,4.58,4.58
+
+Desviación Promedio:,4.71%
+Chi-cuadrado:,13.0009
+Conclusión:,REAL
